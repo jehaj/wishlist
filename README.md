@@ -17,3 +17,6 @@ autofill
 illustrations
 - undraw
 - https://dicebear.com/styles/identicon
+
+## Mechanics
+Upon signing up you only give your name. A password and shareable ID will be generated for you. The password is needed if you want access to the account. The shareable ID is meant to be shared with family and friends so that they can see your wishlist. You can not choose your own password or ID, but they can be randomly generated again.
